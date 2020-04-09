@@ -1,0 +1,129 @@
+/* Свои дополнительные стили */
+.last-posts-list {
+	margin-top: 30px;
+}
+
+.last-post-single {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-self: stretch;
+	flex-wrap: nowrap;
+	padding: 10px 0;
+}
+
+.last-post-single-top {
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	height: 230px;
+	padding: 0 10px;
+}
+
+.last-product-single-bottom {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	flex-wrap: nowrap;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 0 10px;
+	flex-grow: 1;
+}
+
+.last-post-single-top > img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.last-product-single-city {
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 12px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.last-product-single-bottom > p {
+	font-size: 14px;
+	line-height: 14px;
+	text-align: center;
+	/*margin-top: auto;
+	margin-bottom: 0;*/
+}
+
+.last-product-single-bottom > h4 > a {
+	text-align: center;
+}
+
+.custom-info-table {
+	max-width: 100%;
+	margin: 20px 0;
+}
+
+.custom-info-table--list {
+	width: 100%;
+	margin: 10px 0;
+}
+
+.entry-custom-info {
+	margin-bottom: 40px;
+}
+
+.custom-info-table td {
+	padding: 5px;
+	border-bottom: 1px solid #eeeeee;
+}
+
+.custom-info-table td:first-of-type {
+	padding-left: 0;
+	padding-right: 10px;
+	font-weight: 600;
+}
+
+.custom-info-table td:nth-of-type(2) {
+	padding-right: 5px;
+	padding-left: 15px;
+}
+
+.swiper-container {
+    width: 100%;
+    min-width: 290px;
+    height: 500px;
+}
+
+.swiper-slide > img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.more-posts-btn {
+	display: block;
+	width: 100%;
+	max-width: 300px;
+	padding: 15px 20px;
+	background-color: #53f;
+	border-radius: 3px;
+	margin: 10px auto;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#add-img-btn {
+	margin-bottom: 1rem;
+	padding-right: 5px;
+    padding-left: 5px;
+}
+
+@media(max-width: 768px) {
+	.swiper-container {
+	    height: 300px;
+	}
+}

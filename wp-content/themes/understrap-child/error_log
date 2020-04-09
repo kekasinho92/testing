@@ -1,0 +1,32 @@
+[08-Apr-2020 11:29:48 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 104, 'address', 'adres')
+[08-Apr-2020 11:29:48 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 104, 'cities', 'a:1:{i:0;s:2:\"\";}')
+[08-Apr-2020 11:29:48 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 104, 'price', '41200000')
+[08-Apr-2020 11:33:20 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 105, 'address', 'adres')
+[08-Apr-2020 11:33:20 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 105, 'cities', 'a:1:{i:0;s:2:\"\";}')
+[08-Apr-2020 11:33:20 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 105, 'price', '4200000')
+[08-Apr-2020 11:42:59 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 108, 'address', 'Adres1')
+[08-Apr-2020 11:42:59 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 108, 'area', '123')
+[08-Apr-2020 11:42:59 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 108, 'livingArea', '120')
+[08-Apr-2020 11:42:59 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 108, 'cities', 'a:1:{i:0;s:2:\"61\";}')
+[08-Apr-2020 11:42:59 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 108, 'floor', '10')
+[08-Apr-2020 11:42:59 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 108, 'price', '10000000')
+[08-Apr-2020 11:44:36 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 109, 'address', 'Adres1')
+[08-Apr-2020 11:44:36 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 109, 'area', '120')
+[08-Apr-2020 11:44:36 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 109, 'livingArea', '100')
+[08-Apr-2020 11:44:36 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 109, 'cities', 'a:1:{i:0;s:2:\"61\";}')
+[08-Apr-2020 11:44:36 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 109, 'floor', '10')
+[08-Apr-2020 11:44:36 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 109, 'price', '999')
+[08-Apr-2020 11:49:48 UTC] База данных WordPress возвратила ошибку Unknown column 'data' in 'field list' в ответ на запрос INSERT INTO `wp_postmeta` (`data`, `post_id`, `meta_key`, `meta_value`) VALUES ('2020-04-08', 110, 'address', 'адрес 1')
+[08-Apr-2020 13:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_generate_attachment_metadata() in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php on line 146
+[08-Apr-2020 13:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_generate_attachment_metadata() in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php on line 146
+[08-Apr-2020 13:32:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_generate_attachment_metadata() in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php:146
+Stack trace:
+#0 {main}
+  thrown in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php on line 146
+[08-Apr-2020 14:46:50 UTC] PHP Warning:  mime_content_type(/home/k50803/public_html/beautybox.space/wp-content/uploads/2020/04//IMG_20180210_093027.jpg): failed to open stream: No such file or directory in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/handler.php on line 135

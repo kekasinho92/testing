@@ -1,0 +1,41 @@
+[06-Apr-2020 13:45:48 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'add_child_scripts' not found or invalid function name in /home/k50803/public_html/beautybox.space/wp-includes/class-wp-hook.php on line 287
+[06-Apr-2020 13:46:55 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'add_child_scripts' not found or invalid function name in /home/k50803/public_html/beautybox.space/wp-includes/class-wp-hook.php on line 287
+[06-Apr-2020 14:32:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php on line 29
+[06-Apr-2020 14:32:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theID() in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php:27
+Stack trace:
+#0 /home/k50803/public_html/beautybox.space/wp-includes/template-loader.php(106): include()
+#1 /home/k50803/public_html/beautybox.space/wp-blog-header.php(19): require_once('/home/k50803/pu...')
+#2 /home/k50803/public_html/beautybox.space/index.php(17): require('/home/k50803/pu...')
+#3 {main}
+  thrown in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php on line 27
+[06-Apr-2020 14:32:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_theID() in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php:27
+Stack trace:
+#0 /home/k50803/public_html/beautybox.space/wp-includes/template-loader.php(106): include()
+#1 /home/k50803/public_html/beautybox.space/wp-blog-header.php(19): require_once('/home/k50803/pu...')
+#2 /home/k50803/public_html/beautybox.space/index.php(17): require('/home/k50803/pu...')
+#3 {main}
+  thrown in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php on line 27
+[06-Apr-2020 14:33:25 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php on line 27
+[06-Apr-2020 14:34:27 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-cities.php on line 28
+[06-Apr-2020 14:46:07 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 98
+[06-Apr-2020 14:46:30 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 98
+[06-Apr-2020 15:05:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 84
+[06-Apr-2020 15:06:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 84
+[06-Apr-2020 15:23:10 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:23:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:23:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:24:21 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:24:30 UTC] PHP Parse error:  syntax error, unexpected ':', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:24:37 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:25:06 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:25:13 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:26:07 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[06-Apr-2020 15:26:14 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/single-apartments.php on line 79
+[07-Apr-2020 09:00:49 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 81
+[07-Apr-2020 09:01:12 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 81
+[07-Apr-2020 09:01:13 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 81
+[07-Apr-2020 09:01:15 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 81
+[07-Apr-2020 09:01:58 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 81
+[07-Apr-2020 09:02:14 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 81
+[07-Apr-2020 10:04:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 84
+[07-Apr-2020 10:14:03 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /home/k50803/public_html/beautybox.space/wp-content/themes/understrap-child/page-home.php on line 145

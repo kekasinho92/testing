@@ -1,0 +1,13 @@
+/*
+Theme Name: Understrap - Дочерняя тема
+Template: understrap
+Theme URI: almazkamusic@yandex.ru
+Author: Almaz
+Description: Understrap is a Minimal and Clean WordPress Theme. Mobile-friendly (responsive), optimized for speed, and implements SEO (search engine optimization) best practices. The theme options are powered by Customizer
+Version: 1.1
+Tags: two-columns, shop, news, photography, right-sidebar, custom-logo, custom-background, custom-colors, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+*/
+
+/* импортируем стили родительской темы */
+
+@import url("../understrap/style.css");
